@@ -54,3 +54,5 @@ host = https://website.com/
 [server]
 listen = http://0.0.0.0:8080/
 ```
+
+Read more for [server](https://posativ.org/isso/docs/configuration/server/) and [client](https://posativ.org/isso/docs/configuration/client/) configuration
