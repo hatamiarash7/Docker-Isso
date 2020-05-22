@@ -15,7 +15,7 @@ version: "3"
 
 services:
   isso:
-    image: hatamiarash7/isso
+    image: registry.gitlab.com/hatamiarash7/docker-isso
     restart: unless-stopped
     container_name: isso
     environment:
